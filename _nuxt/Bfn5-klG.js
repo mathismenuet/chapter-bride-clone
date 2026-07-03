@@ -1,0 +1,1 @@
+import{h as a,u as t,i as s,c as o,o as i}from"./DFxf35Yj.js";const d={__name:"index",setup(n){const e=a();return t({title:"Chapter: Bride | Milla Nova",bodyAttrs:{class:"overflow-hidden"},meta:[],link:[{rel:"icon",type:"image/x-icon",href:"/images/favicon.ico"}]}),s(()=>{window.setClass&&window.setClass(e.value)}),(c,l)=>(i(),o("div"))}};export{d as default};
